@@ -98,7 +98,7 @@ In the **Layer Comparison** section of the dock panel:
 
 ## Screenshots
 
-> *Add screenshots here after first use — drag images into this section on GitHub*
+<img width="1914" height="1128" alt="Image" src="https://github.com/user-attachments/assets/117cab70-bf54-40e2-8251-b0d061bae72e" />
 
 ---
 
